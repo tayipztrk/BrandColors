@@ -1,3 +1,8 @@
+
+Link : https://tayipztrk-brandcolors.netlify.app/
+
+BrandColors Demo App With React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
